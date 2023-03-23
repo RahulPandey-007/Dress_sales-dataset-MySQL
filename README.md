@@ -1,4 +1,4 @@
-# Dress_sales-dataset-MySQL
+# Dress_sales_dataset-MySQL
 This is a kind of mini project on MySQL.
 
 This MySQL repository has some codes like:
